@@ -113,13 +113,5 @@ If you use this code or data, please cite both papers:
 }
 ```
 
-### X-VESTA Explainability Architecture
-```bibtex
-@article{elkhodr2025xvesta,
-  author={Elkhodr, Mahmoud and Gide, Ergun and El Didi, Ibrahim and Al-Sabbagh, Abdallah},
-  journal={IEEE Access}, 
-  title={Multi-Stakeholder Explainable {AI} for Vehicle-to-Grid ({V2G}) Energy Management: The {X-VESTA} Architecture},
-  year={2025},
-  note={Submitted for publication}
-}
+
 ```
