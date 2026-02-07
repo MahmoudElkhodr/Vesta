@@ -26,7 +26,7 @@ April 2026, (Submitted).
 
 **Multi-Stakeholder Explainable AI for Vehicle-to-Grid (V2G) Energy Management: The X-VESTA Architecture**  
 Mahmoud Elkhodr, Ergun Gide, Ibrahim El Didi, Abdallah Al-Sabbagh  
-*IEEE Access*, 2025 (submitted)
+Preprint pending, 2025 (submitted)
 
 ## Repository Contents
 
